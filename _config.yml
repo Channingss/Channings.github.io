@@ -1,10 +1,10 @@
 # Site settings
 title: channings Blog
-SEOTitle: channings Blog | BY Blog
+SEOTitle: channings Blog | channings
 header-img: img/home-bg.jpg
 email: chen_lingchi@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 陈凌驰的博客, "
+keyword: "channings, channingss ,channingss Blog, 陈凌驰的博客,"
 url: "http://channingss.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/channingss/channingss.github.io.git" # you code repository
@@ -69,7 +69,7 @@ disqus_username: channingss
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-107737405-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
 
 
