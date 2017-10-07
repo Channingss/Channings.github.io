@@ -1,7 +1,7 @@
 # Site settings
 title: channings Blog
 SEOTitle: channings Blog | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg.jpg
 email: chen_lingchi@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 陈凌驰的博客, "
@@ -18,8 +18,8 @@ sidebar-avatar: /img/about_channings.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     channingss
-zhihu_username:     channingss
+weibo_username:     channings
+zhihu_username:     channings
 github_username:    channingss
 
 
