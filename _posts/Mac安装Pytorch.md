@@ -1,3 +1,25 @@
+---
+
+layout:     post                    # 使用的布局（不需要改）
+
+title:      Mac安装Pytorch版本问题               # 标题 
+
+subtitle:   Pytorch  #副标题
+
+date:       2017-02-06              # 时间
+
+author:     Channings                      # 作者
+
+header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+
+catalog: true                       # 是否归档
+
+tags:                               #标签    
+    - Pytorch
+    - Mac
+---
+
+
 # Mac安装Pytorch
 
 ## 安装python3.6版本
